@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "digitalbaazar",
+    "slug": "digitalbaazar",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/DB.png",
+    "splash": {
+      "image": "./assets/logo/logotrans.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.bam.digitalbazaar",
+      "buildNumber": "1.0.0"
+
+    },
+    "android": {
+      "package": "com.bam.digitalbazaar",
+      "versionCode": 1
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+
